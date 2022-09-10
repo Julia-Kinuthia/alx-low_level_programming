@@ -5,7 +5,7 @@
  *
  * Description: Using the main function this program prints message
  *
- * Return: Always 0 (Success)
+ * Return: 0
  */
 int main(void)
 {
