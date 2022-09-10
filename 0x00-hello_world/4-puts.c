@@ -5,6 +5,8 @@
  *
  * Description: Using the main function this program prints message
  *
+ * stderr: Anything
+ *
  * Return: 0
  */
 int main(void)
