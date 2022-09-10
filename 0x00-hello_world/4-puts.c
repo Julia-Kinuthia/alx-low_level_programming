@@ -3,11 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: Using the main function this program prints message
- *
- * stderr: Anything
- *
- * Return: 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
